@@ -1,6 +1,6 @@
 {
   "name": "coverride",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy and lightwight video background as a cover",
   "main": "Src/index.js",
   "scripts": {
